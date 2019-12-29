@@ -4,4 +4,4 @@ Andrés David Peña Velandia tiene 21 años y nació en Bogotá Colombia, vamos 
 
 Andrés David Peña velandia tiene diferentes titulos con el SENA y con Platzi.
 
-Vamos a añadir una nueva linea de practica para aprender Git y GitHub con platzi
+Vamos a añadir una nueva línea de práctica para aprender Git y GitHub con platzi.
